@@ -1,3 +1,5 @@
-# Resume
+## Resume
 
-Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/RESUMEprateekiiest.pdf)
+Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/resumeprateekiiest%20(2).pdf)
+
+With :heart: from OverLeaf
