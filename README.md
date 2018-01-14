@@ -2,7 +2,7 @@
 
 
 
-Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/resumeprateekiiest%20(2).pdf)
+Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/RESUME%20(3).pdf)
 
 With :heart: from OverLeaf
 
