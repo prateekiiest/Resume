@@ -10,6 +10,7 @@ Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/SWResum
 ### Current Publications
 
 [Google Scholar Profile](https://scholar.google.co.in/citations?hl=en&user=2CiQLkYAAAAJ)
+
 [ResearchGate Profile](https://www.researchgate.net/profile/Prateek_Chanda)
 
 
