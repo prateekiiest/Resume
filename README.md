@@ -21,6 +21,8 @@ I may add a general one with more projects and works in future.
 
 Till then Github is my new resume :octocat: :metal: 
 
+![](https://github.com/prateekiiest/Resume/blob/master/contributions%20(2).png)
+
 If you want to follow my work **hit the follow button** under my profile.
 
 And Thanks for stopping by!
