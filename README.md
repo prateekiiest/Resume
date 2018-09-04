@@ -2,7 +2,7 @@
 
 
 
-Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/PrateekResume.pdf)
+Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/SWResumePrateek.pdf)
 
 [![made with &heartsby Overleaf](https://img.shields.io/badge/made%20with%20%E2%9D%A4-by%20Overleaf-brightgreen.svg)](http://shields.io/#your-badge)
 
