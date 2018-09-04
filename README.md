@@ -10,8 +10,8 @@ Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/SWResum
 ### Current Publications
 
 [Google Scholar Profile](https://scholar.google.co.in/citations?hl=en&user=2CiQLkYAAAAJ)
+[ResearchGate Profile](https://www.researchgate.net/profile/Prateek_Chanda)
 
-In case you want to search for links like `Research Paper` search above and in case of `Internship Project Report` please see my project on Student Group Activity Recognition Project
 
 ---------------------------------------
 
