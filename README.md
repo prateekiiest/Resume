@@ -1,8 +1,11 @@
 ## Resume
 
 
+Two resumes are updated here for specific Profiles
 
-Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/Resume__Prateek.pdf)
+[Machine Learning Role Resume](https://github.com/prateekiiest/Resume/blob/master/Machine_Learning_Resume.pdf)
+
+[Software Developer Role Resume](https://github.com/prateekiiest/Resume/blob/master/Software_Developer_Resume.pdf)
 
 [![made with &heartsby Overleaf](https://img.shields.io/badge/made%20with%20%E2%9D%A4-by%20Overleaf-brightgreen.svg)](http://shields.io/#your-badge)
 
@@ -17,10 +20,6 @@ Updated resume [here](https://github.com/prateekiiest/Resume/blob/master/Resume_
 ---------------------------------------
 
 
-Many prefer a one-page resume. However there are more projects and work that are not being listed here. And its a role-specific profile.
-I may add a general one with more projects and works in future.
-
-Till then Github is my new resume :octocat: :metal: 
 
 ![](https://github.com/prateekiiest/Resume/blob/master/contributions%20(3).png)
 
